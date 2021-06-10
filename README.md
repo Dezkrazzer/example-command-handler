@@ -12,4 +12,4 @@
 
 > This project requires [Node.js](https://nodejs.org/en/) version 14.x or above
 
-- First you can clone this repo by: ```a```
+- First you can clone this repo by typing in git bash: ```git clone https://github.com/Dezkrazzer/example-command-handler.git```
