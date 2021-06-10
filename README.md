@@ -34,4 +34,4 @@ in your own way
 
 <p><a href="https://trakteer.id/dezkrazzer"/>Trakteer</a> | <a href="https://karyakarsa.com/secretdevelopment"/>Karyakarsa</a> | <a href="https://saweria.co/Dezkrazzer"/>Saweria</a></p>
 
-<h10>© Secret Development 2021 - Hexa Music#3055</h10>
+<h10>© Secret Development 2021 - DezkrazeeeR#6659</h10>
