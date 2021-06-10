@@ -18,4 +18,5 @@
 in your own way
 
 <h2>How to setup</h2>
+
 - You can go to `config.json` first and change the TOKEN section and the PREFIX section
