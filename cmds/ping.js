@@ -1,4 +1,3 @@
-exports.run = async (client, message, args, color) => {  
-  if (message.channel.type == "dm") return;  
-        message.channel.send(`ℹ️ | My Latency is **${client.ping.toFixed()}ms**!`)   
+exports.run = async (client, message, args) => {
+  message.channel.send(`ℹ | My latency is ${client.ws.ping}ms`)
 }

@@ -1,3 +1,4 @@
 {
-  "prefix" : "ex!"
+  "token" : "YOUR TOKEN HERE", 
+  "prefix" : "!"
 }
