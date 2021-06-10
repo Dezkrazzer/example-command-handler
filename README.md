@@ -20,3 +20,18 @@ in your own way
 <h2>How to setup</h2>
 
 - You can go to `config.json` first and change the TOKEN section and the PREFIX section
+  > ![Config JSON](https://media.discordapp.net/attachments/778575261704781844/852405386195632128/unknown.png?width=142&height=52) 
+
+- You can go to `server.js` then you can search for the section like the image below and you can change your presence bot there
+  > ![server.js](https://media.discordapp.net/attachments/778575261704781844/852406039622320138/unknown.png?width=492&height=52)
+
+- To add your command, you have to go to the folder named `cmds`, after that you can create a new file and write the name with the format `namecommand.js`
+
+
+<h3>Thanks for using this template</h3>
+
+> If you like it you can give a star ⭐ on this github project. If you have a problem, you can open issues on our github or you can ask on [our discord server](https://discord.gg/XAN2AJr)
+
+<p><a href="https://trakteer.id/dezkrazzer"/>Trakteer</a> | <a href="https://karyakarsa.com/secretdevelopment"/>Karyakarsa</a> | <a href="https://saweria.co/Dezkrazzer"/>Saweria</a></p>
+
+<h10>© Secret Development 2021 - Hexa Music#3055</h10>
