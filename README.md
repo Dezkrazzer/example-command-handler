@@ -8,8 +8,14 @@
 <a href="https://discord.com/oauth2/authorize?client_id=742740692773896225&permissions=8&scope=bot" target="_blank"><img alt="Invite" src="https://img.shields.io/static/v1?label=%7F&message=Javascript&logo=javascript&color=7289da&logoColor=ffffff" /></a>
 </p>
 
-<h2>How to setup</h2>
+<h2>Installation</h2>
 
 > This project requires [Node.js](https://nodejs.org/en/) version 14.x or above
 
-- First you can clone this repo by typing in git bash: ```git clone https://github.com/Dezkrazzer/example-command-handler.git```
+- First you can clone this repo by typing in git bash: 
+```git clone https://github.com/Dezkrazzer/example-command-handler.git``` or by clicking [here](https://github.com/Dezkrazzer/example-command-handler/generate)
+- After that you can install the package
+in your own way
+
+<h2>How to setup</h2>
+- You can go to `config.json` first and change the TOKEN section and the PREFIX section
